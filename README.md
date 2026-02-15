@@ -8,7 +8,7 @@ This project analyzes Swiggy food delivery sales data using **Excel dashboards**
 ## 📊 Dataset Information
 Due to GitHub file size limitations, the dataset is hosted externally.
 
-🔗 Dataset Link: [Click here to access the dataset](https://docs.google.com/spreadsheets/d/1SqUwX8dD_hu57vpaVN4sLeIW5o-YevPI/edit?usp=sharing&ouid=110627933213784639984&rtpof=true&sd=true)
+🔗 Dataset and Dashboard Link: [Click here to access the dataset](https://docs.google.com/spreadsheets/d/1SqUwX8dD_hu57vpaVN4sLeIW5o-YevPI/edit?usp=sharing&ouid=110627933213784639984&rtpof=true&sd=true)
 ---
 
 ## ❓ Problem Statement
